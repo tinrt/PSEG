@@ -1,0 +1,565 @@
+Municipality,County,MRI Score
+Aberdeen township,Monmouth,2.33
+Absecon city,Atlantic,-2.94
+Alexandria township,Hunterdon,3.95
+Allamuchy township,Warren,4.03
+Allendale borough,Bergen,4.33
+Allenhurst borough,Monmouth,2.35
+Allentown borough,Monmouth,2.53
+Alloway township,Salem,0.83
+Alpha borough,Warren,-1.23
+Alpine borough,Bergen,5.49
+Andover borough,Sussex,-1.39
+Andover township,Sussex,0.94
+Asbury Park city,Monmouth,-8.25
+Atlantic City city,Atlantic,-20.13
+Atlantic Highlands borough,Monmouth,2.94
+Audubon borough,Camden,1.39
+Audubon Park borough,Camden,-5.78
+Avalon borough,Cape May,5.57
+Avon-by-the-Sea borough,Monmouth,2.42
+Barnegat Light borough,Ocean,5.19
+Barnegat township,Ocean,-1.16
+Barrington borough,Camden,0.18
+Bass River township,Burlington,-5.41
+Bay Head borough,Ocean,4.51
+Bayonne city,Hudson,-5.16
+Beach Haven borough,Ocean,-0.05
+Beachwood borough,Ocean,0.57
+Bedminster township,Somerset,3.94
+Belleville township,Essex,-3.57
+Bellmawr borough,Camden,-4.04
+Belmar borough,Monmouth,0.36
+Belvidere town,Warren,-3.98
+Bergenfield borough,Bergen,0.86
+Berkeley Heights township,Union,6.09
+Berkeley township,Ocean,-2.15
+Berlin borough,Camden,0.1
+Berlin township,Camden,0.31
+Bernards township,Somerset,4.91
+Bernardsville borough,Somerset,5.91
+Bethlehem township,Hunterdon,3.82
+Beverly city,Burlington,-5.13
+Blairstown township,Warren,1.34
+Bloomfield township,Essex,-0.58
+Bloomingdale borough,Passaic,-0.88
+Bloomsbury borough,Hunterdon,-3.15
+Bogota borough,Bergen,0.4
+Boonton town,Morris,0.93
+Boonton township,Morris,4.11
+Bordentown city,Burlington,0.14
+Bordentown township,Burlington,3.79
+Bound Brook borough,Somerset,-1.91
+Bradley Beach borough,Monmouth,0.4
+Branchburg township,Somerset,4.75
+Branchville borough,Sussex,-0.96
+Brick township,Ocean,0.75
+Bridgeton city,Cumberland,-18.46
+Bridgewater township,Somerset,3.62
+Brielle borough,Monmouth,4.74
+Brigantine city,Atlantic,-1.58
+Brooklawn borough,Camden,-9.4
+Buena borough,Atlantic,-4.79
+Buena Vista township,Atlantic,-5.04
+Burlington city,Burlington,-5.5
+Burlington township,Burlington,-0.99
+Butler borough,Morris,1.79
+Byram township,Sussex,3.17
+Caldwell borough,Essex,3.13
+Califon borough,Hunterdon,2.27
+Camden city,Camden,-27.82
+Cape May city,Cape May,-4.87
+Cape May Point borough,Cape May,-1.68
+Carlstadt borough,Bergen,-0.62
+Carneys Point township,Salem,-5.22
+Carteret borough,Middlesex,-4.75
+Cedar Grove township,Essex,3.74
+Chatham borough,Morris,7.73
+Chatham township,Morris,7.01
+Cherry Hill township,Camden,1.79
+Chesilhurst borough,Camden,-8.1
+Chester borough,Morris,3.41
+Chester township,Morris,6.22
+Chesterfield township,Burlington,4.36
+Cinnaminson township,Burlington,3.2
+City of Orange township,Essex,-10.58
+Clark township,Union,3.3
+Clayton borough,Gloucester,-2.46
+Clementon borough,Camden,-8.14
+Cliffside Park borough,Bergen,-1.37
+Clifton city,Passaic,-2.15
+Clinton town,Hunterdon,2.5
+Clinton township,Hunterdon,4.08
+Closter borough,Bergen,2.98
+Collingswood borough,Camden,-0.83
+Colts Neck township,Monmouth,5.65
+Commercial township,Cumberland,-9.83
+Corbin City city,Atlantic,-3.36
+Cranbury township,Middlesex,6.13
+Cranford township,Union,4.22
+Cresskill borough,Bergen,4.46
+Deal borough,Monmouth,0.99
+Deerfield township,Cumberland,-1.54
+Delanco township,Burlington,0.3
+Delaware township,Hunterdon,5.08
+Delran township,Burlington,1.5
+Demarest borough,Bergen,5.74
+Dennis township,Cape May,0.21
+Denville township,Morris,3.96
+Deptford township,Gloucester,-1.48
+Dover town,Morris,-5.55
+Downe township,Cumberland,-5.09
+Dumont borough,Bergen,1.7
+Dunellen borough,Middlesex,-4.37
+Eagleswood township,Ocean,-0.8
+East Amwell township,Hunterdon,3.79
+East Brunswick township,Middlesex,2.3
+East Greenwich township,Gloucester,4.61
+East Hanover township,Morris,3.59
+East Newark borough,Hudson,-9.01
+East Orange city,Essex,-9.92
+East Rutherford borough,Bergen,-0.73
+East Windsor township,Mercer,1.42
+Eastampton township,Burlington,2.29
+Eatontown borough,Monmouth,-1
+Edgewater borough,Bergen,3.67
+Edgewater Park township,Burlington,-4.93
+Edison township,Middlesex,1.37
+Egg Harbor City city,Atlantic,-14.93
+Egg Harbor township,Atlantic,-2.5
+Elizabeth city,Union,-8.95
+Elk township,Gloucester,1.02
+Elmer borough,Salem,-0.44
+Elmwood Park borough,Bergen,-3.21
+Elsinboro township,Salem,-2.13
+Emerson borough,Bergen,3.73
+Englewood city,Bergen,-2.9
+Englewood Cliffs borough,Bergen,4.9
+Englishtown borough,Monmouth,0.1
+Essex Fells borough,Essex,7.2
+Estell Manor city,Atlantic,-1.8
+Evesham township,Burlington,3.24
+Ewing township,Mercer,-2.06
+Fair Haven borough,Monmouth,7.36
+Fair Lawn borough,Bergen,2.45
+Fairfield township,Cumberland,-8.13
+Fairfield township,Essex,0.44
+Fairview borough,Bergen,-6.1
+Fanwood borough,Union,5.86
+Far Hills borough,Somerset,4.02
+Farmingdale borough,Monmouth,-0.91
+Fieldsboro borough,Burlington,-1.84
+Flemington borough,Hunterdon,-4.5
+Florence township,Burlington,0.23
+Florham Park borough,Morris,4.05
+Folsom borough,Atlantic,-1.07
+Fort Lee borough,Bergen,1.38
+Frankford township,Sussex,1.75
+Franklin borough,Sussex,-2.07
+Franklin Lakes borough,Bergen,5.6
+Franklin township,Gloucester,-2.74
+Franklin township,Somerset,0.9
+Franklin township,Warren,2.25
+Franklin township,Hunterdon,4.56
+Fredon township,Sussex,2.57
+Freehold borough,Monmouth,-5.75
+Freehold township,Monmouth,2.37
+Frelinghuysen township,Warren,2.58
+Frenchtown borough,Hunterdon,1.96
+Galloway township,Atlantic,-1.54
+Garfield city,Bergen,-5.86
+Garwood borough,Union,2.28
+Gibbsboro borough,Camden,-1.32
+Glassboro borough,Gloucester,-4.1
+Glen Gardner borough,Hunterdon,0.78
+Glen Ridge borough,Essex,7.3
+Glen Rock borough,Bergen,6.06
+Gloucester City city,Camden,-7.88
+Gloucester township,Camden,-0.99
+Green Brook township,Somerset,4.02
+Green township,Sussex,4.36
+Greenwich township,Gloucester,-1.5
+Greenwich township,Cumberland,0.38
+Greenwich township,Warren,4.75
+Guttenberg town,Hudson,-5.02
+Hackensack city,Bergen,-3.86
+Hackettstown town,Warren,0.12
+Haddon Heights borough,Camden,3.09
+Haddon township,Camden,2.47
+Haddonfield borough,Camden,5.83
+Hainesport township,Burlington,3.45
+Haledon borough,Passaic,-4.9
+Hamburg borough,Sussex,0.83
+Hamilton township,Atlantic,-3.01
+Hamilton township,Mercer,0.12
+Hammonton town,Atlantic,-4.2
+Hampton borough,Hunterdon,-4.24
+Hampton township,Sussex,1.16
+Hanover township,Morris,4.01
+Harding township,Morris,4.27
+Hardwick township,Warren,0.91
+Hardyston township,Sussex,0.84
+Harmony township,Warren,1.33
+Harrington Park borough,Bergen,4.94
+Harrison town,Hudson,-2.01
+Harrison township,Gloucester,3.84
+Harvey Cedars borough,Ocean,5.95
+Hasbrouck Heights borough,Bergen,-0.02
+Haworth borough,Bergen,5.5
+Hawthorne borough,Passaic,1.23
+Hazlet township,Monmouth,1.67
+Helmetta borough,Middlesex,1.68
+High Bridge borough,Hunterdon,-1.5
+Highland Park borough,Middlesex,-0.93
+Highlands borough,Monmouth,-0.74
+Hightstown borough,Mercer,1.62
+Hillsborough township,Somerset,4.29
+Hillsdale borough,Bergen,3.76
+Hillside township,Union,-4.59
+Hi-Nella borough,Camden,-1.9
+Hoboken city,Hudson,3.77
+Ho-Ho-Kus borough,Bergen,7.6
+Holland township,Hunterdon,3.16
+Holmdel township,Monmouth,4.55
+Hopatcong borough,Sussex,1.29
+Hope township,Warren,0.45
+Hopewell borough,Mercer,3.73
+Hopewell township,Cumberland,-0.29
+Hopewell township,Mercer,4.75
+Howell township,Monmouth,2.61
+Independence township,Warren,1.94
+Interlaken borough,Monmouth,3.74
+Irvington township,Essex,-9.22
+Island Heights borough,Ocean,3.47
+Jackson township,Ocean,1.28
+Jamesburg borough,Middlesex,-0.9
+Jefferson township,Morris,1.02
+Jersey City city,Hudson,-4.94
+Keansburg borough,Monmouth,-9.14
+Kearny town,Hudson,-4.56
+Kenilworth borough,Union,-1.04
+Keyport borough,Monmouth,-1.7
+Kingwood township,Hunterdon,3.99
+Kinnelon borough,Morris,4.65
+Knowlton township,Warren,0.03
+Lacey township,Ocean,1.5
+Lafayette township,Sussex,1.01
+Lake Como borough,Monmouth,0.12
+Lakehurst borough,Ocean,-5.36
+Lakewood township,Ocean,-4.01
+Lambertville city,Hunterdon,1.91
+Laurel Springs borough,Camden,-0.8
+Lavallette borough,Ocean,3.7
+Lawnside borough,Camden,-6.38
+Lawrence township,Cumberland,-6.35
+Lawrence township,Mercer,2.44
+Lebanon borough,Hunterdon,2.27
+Lebanon township,Hunterdon,2.74
+Leonia borough,Bergen,2.33
+Liberty township,Warren,0.96
+Lincoln Park borough,Morris,1.89
+Linden city,Union,-3.56
+Lindenwold borough,Camden,-9.4
+Linwood city,Atlantic,1.95
+Little Egg Harbor township,Ocean,-0.81
+Little Falls township,Passaic,1.78
+Little Ferry borough,Bergen,-1.96
+Little Silver borough,Monmouth,7.47
+Livingston township,Essex,5.73
+Loch Arbour village,Monmouth,5.54
+Lodi borough,Bergen,-4.94
+Logan township,Gloucester,1.82
+Long Beach township,Ocean,3.54
+Long Branch city,Monmouth,-4.95
+Long Hill township,Morris,4.21
+Longport borough,Atlantic,3.98
+Lopatcong township,Warren,0.36
+Lower Alloways Creek township,Salem,-1.06
+Lower township,Cape May,-3.82
+Lumberton township,Burlington,1.06
+Lyndhurst township,Bergen,-0.52
+Madison borough,Morris,4.32
+Magnolia borough,Camden,-2.08
+Mahwah township,Bergen,2.99
+Manalapan township,Monmouth,3.91
+Manasquan borough,Monmouth,4.79
+Manchester township,Ocean,-2.58
+Mannington township,Salem,-2.32
+Mansfield township,Warren,0.69
+Mansfield township,Burlington,2.83
+Mantoloking borough,Ocean,9.23
+Mantua township,Gloucester,1.17
+Manville borough,Somerset,-1.22
+Maple Shade township,Burlington,-1.72
+Maplewood township,Essex,3.91
+Margate City city,Atlantic,2.14
+Marlboro township,Monmouth,4.85
+Matawan borough,Monmouth,1.38
+Maurice River township,Cumberland,-8.53
+Maywood borough,Bergen,1.3
+Medford Lakes borough,Burlington,4.71
+Medford township,Burlington,4.86
+Mendham borough,Morris,6.16
+Mendham township,Morris,7.31
+Merchantville borough,Camden,-3.67
+Metuchen borough,Middlesex,4
+Middle township,Cape May,-5.68
+Middlesex borough,Middlesex,0
+Middletown township,Monmouth,3.22
+Midland Park borough,Bergen,3.37
+Milford borough,Hunterdon,-1.74
+Millburn township,Essex,7.42
+Millstone borough,Somerset,2.04
+Millstone township,Monmouth,4.8
+Milltown borough,Middlesex,3.2
+Millville city,Cumberland,-8.03
+Mine Hill township,Morris,1.75
+Monmouth Beach borough,Monmouth,5.16
+Monroe township,Gloucester,-1.24
+Monroe township,Middlesex,2.51
+Montague township,Sussex,-0.21
+Montclair township,Essex,3.57
+Montgomery township,Somerset,6.4
+Montvale borough,Bergen,4.8
+Montville township,Morris,4.78
+Moonachie borough,Bergen,0.57
+Moorestown township,Burlington,4.08
+Morris Plains borough,Morris,3.18
+Morris township,Morris,5.15
+Morristown town,Morris,0.69
+Mount Arlington borough,Morris,1.25
+Mount Ephraim borough,Camden,-2.59
+Mount Holly township,Burlington,-8.57
+Mount Laurel township,Burlington,2.75
+Mount Olive township,Morris,1.35
+Mountain Lakes borough,Morris,7.5
+Mountainside borough,Union,5.04
+Mullica township,Atlantic,-4.53
+National Park borough,Gloucester,-1.61
+Neptune City borough,Monmouth,-5.45
+Neptune township,Monmouth,-1.89
+Netcong borough,Morris,-2.41
+New Brunswick city,Middlesex,-12.57
+New Hanover township,Burlington,-3.86
+New Milford borough,Bergen,1.77
+New Providence borough,Union,5.2
+Newark city,Essex,-13.33
+Newfield borough,Gloucester,0.56
+Newton town,Sussex,-4.14
+North Arlington borough,Bergen,-0.71
+North Bergen township,Hudson,-5.62
+North Brunswick township,Middlesex,-0.73
+North Caldwell borough,Essex,6.46
+North Haledon borough,Passaic,1.28
+North Hanover township,Burlington,-1.28
+North Plainfield borough,Somerset,-2.81
+North Wildwood city,Cape May,-6.08
+Northfield city,Atlantic,-0.36
+Northvale borough,Bergen,2.21
+Norwood borough,Bergen,3.83
+Nutley township,Essex,1.55
+Oakland borough,Bergen,3.93
+Oaklyn borough,Camden,-1.77
+Ocean City city,Cape May,0.17
+Ocean Gate borough,Ocean,-3.05
+Ocean township,Ocean,0.91
+Ocean township,Monmouth,1.64
+Oceanport borough,Monmouth,2.43
+Ogdensburg borough,Sussex,0.59
+Old Bridge township,Middlesex,0.43
+Old Tappan borough,Bergen,5.92
+Oldmans township,Salem,0.66
+Oradell borough,Bergen,5.92
+Oxford township,Warren,1.08
+Palisades Park borough,Bergen,-0.18
+Palmyra borough,Burlington,-0.47
+Paramus borough,Bergen,2.5
+Park Ridge borough,Bergen,3.95
+Parsippany-Troy Hills township,Morris,2.09
+Passaic city,Passaic,-15.1
+Paterson city,Passaic,-16.65
+Paulsboro borough,Gloucester,-9.59
+Peapack and Gladstone borough,Somerset,5.6
+Pemberton borough,Burlington,-5.56
+Pemberton township,Burlington,-4.17
+Pennington borough,Mercer,4.84
+Penns Grove borough,Salem,-24.52
+Pennsauken township,Camden,-6.55
+Pennsville township,Salem,-4.01
+Pequannock township,Morris,2.45
+Perth Amboy city,Middlesex,-11.55
+Phillipsburg town,Warren,-8.27
+Pilesgrove township,Salem,-0.52
+Pine Beach borough,Ocean,2.46
+Pine Hill borough,Camden,-6.42
+Piscataway township,Middlesex,0.86
+Pitman borough,Gloucester,0.9
+Pittsgrove township,Salem,-1.84
+Plainfield city,Union,-8.65
+Plainsboro township,Middlesex,4.01
+Pleasantville city,Atlantic,-15.54
+Plumsted township,Ocean,-0.01
+Pohatcong township,Warren,1.14
+Point Pleasant Beach borough,Ocean,1.23
+Point Pleasant borough,Ocean,2.72
+Pompton Lakes borough,Passaic,0.92
+Port Republic city,Atlantic,1.53
+Princeton,Mercer,4.53
+Prospect Park borough,Passaic,-9.07
+Quinton township,Salem,-0.86
+Rahway city,Union,-2.36
+Ramsey borough,Bergen,4.8
+Randolph township,Morris,4.13
+Raritan borough,Somerset,1.3
+Raritan township,Hunterdon,4.29
+Readington township,Hunterdon,3.59
+Red Bank borough,Monmouth,0.19
+Ridgefield borough,Bergen,1.41
+Ridgefield Park village,Bergen,-2.17
+Ridgewood village,Bergen,6.07
+Ringwood borough,Passaic,3.18
+River Edge borough,Bergen,4
+River Vale township,Bergen,3.66
+Riverdale borough,Morris,2.29
+Riverside township,Burlington,-6.34
+Riverton borough,Burlington,3.8
+Robbinsville township,Mercer,5.24
+Rochelle Park township,Bergen,0.06
+Rockaway borough,Morris,-0.24
+Rockaway township,Morris,3.69
+Rockleigh borough,Bergen,1.96
+Rocky Hill borough,Somerset,3.79
+Roosevelt borough,Monmouth,2.47
+Roseland borough,Essex,4.64
+Roselle borough,Union,-3.96
+Roselle Park borough,Union,0.33
+Roxbury township,Morris,1.8
+Rumson borough,Monmouth,7.62
+Runnemede borough,Camden,-2.61
+Rutherford borough,Bergen,2.53
+Saddle Brook township,Bergen,1.51
+Saddle River borough,Bergen,5.43
+Salem city,Salem,-26.02
+Sandyston township,Sussex,2.68
+Sayreville borough,Middlesex,0.55
+Scotch Plains township,Union,5.24
+Sea Bright borough,Monmouth,2.47
+Sea Girt borough,Monmouth,7.61
+Sea Isle City city,Cape May,2.51
+Seaside Heights borough,Ocean,-23.46
+Seaside Park borough,Ocean,-0.25
+Secaucus town,Hudson,2.23
+Shamong township,Burlington,3.06
+Shiloh borough,Cumberland,-3.84
+Ship Bottom borough,Ocean,4.02
+Shrewsbury borough,Monmouth,5.2
+Shrewsbury township,Monmouth,-1.29
+Somerdale borough,Camden,-2.8
+Somers Point city,Atlantic,-5.4
+Somerville borough,Somerset,-1
+South Amboy city,Middlesex,-0.57
+South Bound Brook borough,Somerset,-2.14
+South Brunswick township,Middlesex,3.45
+South Hackensack township,Bergen,-1.87
+South Harrison township,Gloucester,2.35
+South Orange Village township,Essex,4.61
+South Plainfield borough,Middlesex,2.17
+South River borough,Middlesex,-4.18
+South Toms River borough,Ocean,-3.47
+Southampton township,Burlington,0.2
+Sparta township,Sussex,4.3
+Spotswood borough,Middlesex,0.65
+Spring Lake borough,Monmouth,4.85
+Spring Lake Heights borough,Monmouth,3.41
+Springfield township,Burlington,2.82
+Springfield township,Union,2.92
+Stafford township,Ocean,1.73
+Stanhope borough,Sussex,2.86
+Stillwater township,Sussex,2.09
+Stockton borough,Hunterdon,1.21
+Stone Harbor borough,Cape May,5.81
+Stow Creek township,Cumberland,-1.38
+Stratford borough,Camden,-1.75
+Summit city,Union,4.27
+Surf City borough,Ocean,3.94
+Sussex borough,Sussex,-4.91
+Swedesboro borough,Gloucester,-4.17
+Tabernacle township,Burlington,1.99
+Tavistock borough,Camden,12.43
+Teaneck township,Bergen,1.78
+Tenafly borough,Bergen,6.39
+Teterboro borough,Bergen,-19.18
+Tewksbury township,Hunterdon,5.48
+Tinton Falls borough,Monmouth,1.23
+Toms River township,Ocean,0.13
+Totowa borough,Passaic,-0.38
+Trenton city,Mercer,-16.82
+Tuckerton borough,Ocean,0.33
+Union Beach borough,Monmouth,0.84
+Union City city,Hudson,-10.44
+Union township,Union,0.03
+Union township,Hunterdon,1.81
+Upper Deerfield township,Cumberland,-5.66
+Upper Freehold township,Monmouth,4.96
+Upper Pittsgrove township,Salem,-1.29
+Upper Saddle River borough,Bergen,6.73
+Upper township,Cape May,2.8
+Ventnor City city,Atlantic,-2.6
+Vernon township,Sussex,1.67
+Verona township,Essex,4.25
+Victory Gardens borough,Morris,-7.75
+Vineland city,Cumberland,-7.8
+Voorhees township,Camden,1.42
+Waldwick borough,Bergen,3.91
+Wall township,Monmouth,3.85
+Wallington borough,Bergen,-2.05
+Walpack township,Sussex,4.28
+Wanaque borough,Passaic,0.7
+Wantage township,Sussex,0.35
+Warren township,Somerset,4.99
+Washington borough,Warren,-3.81
+Washington township,Burlington,-1.11
+Washington township,Gloucester,1.63
+Washington township,Warren,1.88
+Washington township,Bergen,4.68
+Washington township,Morris,4.74
+Watchung borough,Somerset,4.31
+Waterford township,Camden,-2.33
+Wayne township,Passaic,3.05
+Weehawken township,Hudson,0.92
+Wenonah borough,Gloucester,1.92
+West Amwell township,Hunterdon,3.97
+West Caldwell township,Essex,3.84
+West Cape May borough,Cape May,-0.83
+West Deptford township,Gloucester,-0.64
+West Long Branch borough,Monmouth,0.58
+West Milford township,Passaic,2.06
+West New York town,Hudson,-8.62
+West Orange township,Essex,0.22
+West Wildwood borough,Cape May,-9.54
+West Windsor township,Mercer,5.21
+Westampton township,Burlington,1.63
+Westfield town,Union,6.14
+Westville borough,Gloucester,-7.6
+Westwood borough,Bergen,3.35
+Weymouth township,Atlantic,-4.42
+Wharton borough,Morris,-2.37
+White township,Warren,-0.52
+Wildwood city,Cape May,-15.57
+Wildwood Crest borough,Cape May,-5.59
+Willingboro township,Burlington,-3.53
+Winfield township,Union,-4.76
+Winslow township,Camden,-4.66
+Woodbine borough,Cape May,-15.95
+Woodbridge township,Middlesex,0.09
+Woodbury city,Gloucester,-6.38
+Woodbury Heights borough,Gloucester,1.93
+Woodcliff Lake borough,Bergen,6.62
+Woodland Park borough,Passaic,-1.52
+Woodland township,Burlington,-3.83
+Woodlynne borough,Camden,-14.96
+Wood-Ridge borough,Bergen,3.84
+Woodstown borough,Salem,-1.92
+Woolwich township,Gloucester,2.89
+Wrightstown borough,Burlington,-7.26
+Wyckoff township,Bergen,5.08
