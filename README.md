@@ -1,6 +1,5 @@
 # PSEG Research Project
 
-[Full Report](Project report Tina Nosrati.pdf)
 
 This research aims to understand the challenges faced by underprivileged communities in New
 Jersey by analyzing social media and news article content from general online sources using
@@ -46,4 +45,5 @@ BERT model to be labeled as Environmental, Social, Governance, or None. Next, se
 
 # [**Final Dashboard**](Dashboard.html)
 
+# [Full Report](Project report Tina Nosrati.pdf)
 
