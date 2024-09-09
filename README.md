@@ -1,6 +1,16 @@
 # PSEG Research Project
 
 ## Phase 1
+### This research aims to understand the challenges faced by underprivileged communities in New
+Jersey by analyzing social media and news article content from general online sources using
+Bing search results. Our Dataset contains news articles for more than 350 areas in New Jersey in
+the past year. This research has used text mining techniques and large language models to
+process the data and perform topic modeling to identify the challenges communities face in New
+Jersey. Sentiment analysis has also been used to detect negative-toned articles and investigate
+them more. The result of the Analysis has been summarized in 3 main indicators, including
+Weighted Social Negative Index (WSNI), Crime Index, and Social Negative Articles Ratio for
+each area. The final results were presented using two interactive maps and a dashboard
+summarizing the findings.
 
 1. [**11_Get_latlong_link**](11_Get_latlong_link.ipynb): Jupiter Notebook will create a dataset containing the Latitude and Longitude of New Jersey Areas and the Bing search link.
    1. [NJ.csv](NJ.csv) is the input for this Notebook
