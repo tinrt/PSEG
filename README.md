@@ -45,5 +45,7 @@ BERT model to be labeled as Environmental, Social, Governance, or None. Next, se
 
 # [**Final Dashboard**](Dashboard.html)
 
+[**Full Report**](Project report Tina Nosrati.pdf)
+
 
 
