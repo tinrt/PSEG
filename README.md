@@ -1,4 +1,4 @@
-# PSEG Research Project
+# [PSEG Research Project](Project report Tina Nosrati.pdf)
 
 
 This research aims to understand the challenges faced by underprivileged communities in New
