@@ -35,7 +35,14 @@ BERT model to be labeled as Environmental, Social, Governance, or None. Next, se
 4.[**Sentiment.ipynb**](Sentiment.ipynb): This script determines each sentence's sentiment and adds it to its dictionary. This Notebook also calculates the percentage of each label and export label_percentages.csv
 5. [**NJ Map.ipynb**](NJ_Map.ipynb) : This Notebook reads [label_percentages.csv](label_percentages.csv) and creates map.html
 
-6. [Area.zip](Areas.zip) contains JSON files for each area.
-  
+6. [**Area.zip**](Areas.zip) contains JSON files for each area.
+7. [**SP_SN_Score.ipynb**](SP_SN_Score.ipynb) : This Notebook calculate social negative and social positive score for each area.
+   1. The output is [social_sentiments_summary.csv](social_sentiments_summary.csv)
+8. [**Map1_Social_Score.ipynb**](Map1_Social_Score.ipynb) :Create the social maps
+9. [**Dataprep_TopicModeling.ipynb**](Dataprep_TopicModeling.ipynb)
+10. [**Topic Modeling.ipynb**](Topic_Modeling.ipynb)
+11. [**Dashboard.ipynb**](Dashboard.ipynb)
+
+# [**Final Dashboard**](Dashboard.html)
 
 
