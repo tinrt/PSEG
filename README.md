@@ -1,5 +1,6 @@
 # PSEG Research Project
 
+## Phase 1
 
 1. **11_Get_latlong_link**: Jupiter Notebook will create a dataset containing the Latitude and Longitude of New Jersey Areas and the Bing search link.
    1. NJ.csv is the input for this Notebook
