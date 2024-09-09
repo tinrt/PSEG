@@ -1,5 +1,6 @@
-# [PSEG Research Project](Project report Tina Nosrati.pdf)
+# PSEG Research Project
 
+[Full Report](Project report Tina Nosrati.pdf)
 
 This research aims to understand the challenges faced by underprivileged communities in New
 Jersey by analyzing social media and news article content from general online sources using
