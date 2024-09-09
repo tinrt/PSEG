@@ -1,7 +1,7 @@
 # PSEG Research Project
 
 ## Phase 1
-### This research aims to understand the challenges faced by underprivileged communities in New
+This research aims to understand the challenges faced by underprivileged communities in New
 Jersey by analyzing social media and news article content from general online sources using
 Bing search results. Our Dataset contains news articles for more than 350 areas in New Jersey in
 the past year. This research has used text mining techniques and large language models to
@@ -12,7 +12,8 @@ Weighted Social Negative Index (WSNI), Crime Index, and Social Negative Articles
 each area. The final results were presented using two interactive maps and a dashboard
 summarizing the findings.
 
-## Process: The project starts by initiating an automated data-gathering process using Python that
+## Process: 
+The project starts by initiating an automated data-gathering process using Python that
 searches for more than 350 areas in New Jersey on Bing.com and then crawls a number
 of articles related to each of these areas. The text content of each article will be saved in a
 Jason file, and all the articles related to an area are gathered in a folder. Each article has been broken down into sentences and each sentence has been passed through 2 different labeling processes. First, the sentence has been passed to the Fine-
