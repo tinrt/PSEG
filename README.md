@@ -1,6 +1,6 @@
 # PSEG Research Project
 
-## Phase 1
+
 This research aims to understand the challenges faced by underprivileged communities in New
 Jersey by analyzing social media and news article content from general online sources using
 Bing search results. Our Dataset contains news articles for more than 350 areas in New Jersey in
@@ -31,7 +31,7 @@ BERT model to be labeled as Environmental, Social, Governance, or None. Next, se
       1. Getting Bing search results from the search page link
       2. Getting HTML for each search result from the link
       3. Getting article text from each HTML
-      4. Passing each sentence to Fine Bert and getting label
+      4. Passing each sentence to Fine Bert and getting the label
 4.[**Sentiment.ipynb**](Sentiment.ipynb): This script determines each sentence's sentiment and adds it to its dictionary. This Notebook also calculates the percentage of each label and export label_percentages.csv
 5. [**NJ Map.ipynb**](NJ_Map.ipynb) : This Notebook reads [label_percentages.csv](label_percentages.csv) and creates map.html
 
