@@ -12,6 +12,12 @@ Weighted Social Negative Index (WSNI), Crime Index, and Social Negative Articles
 each area. The final results were presented using two interactive maps and a dashboard
 summarizing the findings.
 
+## Process: The project starts by initiating an automated data-gathering process using Python that
+searches for more than 350 areas in New Jersey on Bing.com and then crawls a number
+of articles related to each of these areas. The text content of each article will be saved in a
+Jason file, and all the articles related to an area are gathered in a folder. Each article has been broken down into sentences and each sentence has been passed through 2 different labeling processes. First, the sentence has been passed to the Fine-
+BERT model to be labeled as Environmental, Social, Governance, or None. Next, sentiment analysis will be applied to decide whether the sentence has a positive, negative, or neutral tone. The labels will be saved next to each sentence in the Jason files.
+
 1. [**11_Get_latlong_link**](11_Get_latlong_link.ipynb): Jupiter Notebook will create a dataset containing the Latitude and Longitude of New Jersey Areas and the Bing search link.
    1. [NJ.csv](NJ.csv) is the input for this Notebook
 
