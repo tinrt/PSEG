@@ -43,7 +43,7 @@ BERT model to be labeled as Environmental, Social, Governance, or None. Next, se
 10. [**Topic Modeling.ipynb**](Topic_Modeling.ipynb)
 11. [**Dashboard.ipynb**](Dashboard.ipynb)
 
-# [**Final Dashboard**]([Dashboard.html](https://tinrt.github.io/PSEG/Dashboard.html))
+# [**Final Dashboard**]([Dashboard.html](https://tinrt.github.io/PSEG/Dashboard.html)) : https://tinrt.github.io/PSEG/Dashboard.html
 
 ### [**Final Report**](Project_report_Tina_Nosrati.pdf)
 
